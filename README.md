@@ -1,10 +1,12 @@
 # Trademark WG
 
-Chair - Chris Adams (Green Web Foundation)
+## Chair - Chris Adams (Green Web Foundation)
 
-[Slack Channel](https://greensoftware-zzk1035.slack.com/archives/C024SQSJ36E) (Private) - Only for informal communication
+## [G-Drive](https://drive.google.com/drive/u/3/folders/1vmfUGCZvngAO4zHDqrwDkTVPbJvFhMRC)
 
-[Meeting schedule](https://lists.greensoftware.io/g/trademark/calendar)
-Meeting Link -  ID - 978 1367 2712
+## [Slack Channel](https://greensoftware-zzk1035.slack.com/archives/C024SQSJ36E) (Private) - Only for informal communication
 
-Helpdesk - helpdesk@greensoftware.io 
+## [Meeting schedule](https://lists.greensoftware.io/g/trademark/calendar)
+- Meeting Link -  ID - 978 1367 2712
+
+## Helpdesk - helpdesk@greensoftware.io 
