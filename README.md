@@ -4,26 +4,28 @@
 - Ensure the Foundation’s trademarks are being used correctly and used in a context that doesn’t diminish the Foundation’s value.
 - Define guidance regarding when, how and in what context the Foundations trademarks can be used.
 
-## Appointments 
+## Appointments
 - Chair - Chris Adams (The Green Web Foundation)
+- V.Chair - Anne Currie (Container Solutions)
 
 ## Projects
-- GSF Trademark Policy (In progress)
+- [GSF Trademark Policy](https://github.com/Green-Software-Foundation/trademark_policy/) (In progress)
 
 ## Resources
 
 * [Meeting Schedule](https://lists.greensoftware.io/g/trademark/calendar) (Members Only)
 * [Shared Google Drive](https://drive.google.com/drive/u/3/folders/1vmfUGCZvngAO4zHDqrwDkTVPbJvFhMRC) (Members Only)
 * [Slack Channel](https://greensoftware-zzk1035.slack.com/archives/C024SQSJ36E) (Members Only)
+* [List of members](https://github.com/Green-Software-Foundation/trademark_wg/blob/main/WG_members.md)
 
 ## Getting Started
 Welcome to the Trademark Working Group.
 
 This working group is part of the Green Software Foundation. It is open to any member of the Foundation, for more details regarding the foundation and the application form to join please go to https://greensoftware.foundation.
 
-- Make sure you have joined the GSF slack and have introduced yourself in the standards slack channel.
+- Make sure you have joined the GSF slack and have introduced yourself in the trademark slack channel
 - We have weekly meetings over zoom, ensure you have access to the above meeting schedule.
-- Familiarize yourself with our scope above and take a look at our current projects in flight, both links are above.
+- Familiarize yourself with our scope above and take a look at our current projects in flight. Information and links to both are above.
 - If you are having any problems with access please reach out to helpdesk@greensoftware.io.
 
 ## Copyright
