@@ -6,6 +6,7 @@
 
 ## Appointments 
 - Chair - Chris Adams (The Green Web Foundation)
+- Vice Chair - Anne Currie (Container Solutions)
 
 ## Projects
 - GSF Trademark Policy (In progress)
