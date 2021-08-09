@@ -9,7 +9,7 @@
 - Vice Chair - Anne Currie (Container Solutions)
 
 ## Projects
-- GSF Trademark Policy (In progress)
+- [GSF Trademark Policy (In progress)](https://github.com/Green-Software-Foundation/trademark_policy/)
 
 ## Resources
 
@@ -26,6 +26,10 @@ This working group is part of the Green Software Foundation. It is open to any m
 - We have weekly meetings over zoom, ensure you have access to the above meeting schedule.
 - Familiarize yourself with our scope above and take a look at our current projects in flight, both links are above.
 - If you are having any problems with access please reach out to helpdesk@greensoftware.io.
+
+## Contributing
+
+
 
 ## Copyright
 Trademark WG projects are copyrighted under [Creative Commons Attribution 4.0](https://creativecommons.org/licenses/by/4.0/).
